@@ -1,8 +1,8 @@
 // ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:hacktoberfest_app/list.dart';
-import 'package:hacktoberfest_app/loadingscreen.dart';
+import 'package:hacktoberfest_app/Screens/list.dart';
+import 'package:hacktoberfest_app/Screens/loadingscreen.dart';
 
 void main() {
   runApp(MyApp());

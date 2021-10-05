@@ -1,7 +1,7 @@
 // ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:hacktoberfest_app/list.dart';
+import 'package:hacktoberfest_app/Screens/list.dart';
 
 class LoadingScreen extends StatefulWidget {
   static const id = 'loadingscreen';

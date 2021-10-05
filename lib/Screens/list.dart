@@ -1,9 +1,9 @@
 // ignore_for_file: use_key_in_widget_constructors, prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:hacktoberfest_app/tile.dart';
+import 'package:hacktoberfest_app/Screens/tile.dart';
 
-import 'contributors.dart';
+import '../contributors.dart';
 
 class ListContributors extends StatelessWidget {
   static const id = 'list';
