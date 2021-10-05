@@ -5,6 +5,7 @@ class Contributers {
     'Manv3ndra',
     'Palash2003',
     'PARAVPREET17',
+    'thetarandhiman',
     // Add your GitHub Username here (please add "," also)
   ];
 
