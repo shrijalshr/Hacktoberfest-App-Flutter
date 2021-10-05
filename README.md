@@ -19,6 +19,7 @@
 - Follow me for more projects ❤
 
 # How to make your Pull Request:
+#### 📜 Instructions for making the changes
 ## 1. Editing the Code
 Add your `Github username` in the contributer's list[ ] given in `lib/contributers.dart`
 ```dart
