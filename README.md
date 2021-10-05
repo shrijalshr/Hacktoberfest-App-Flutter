@@ -46,7 +46,7 @@ Quote: Any quote!
  ## 4. Celebrate - you've done your pull request!!
 Yay!! Refresh your profile at <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a> and see the updates. 🎉
     <hr>
- If you liked then Star ⭐ the repo & make sure to follow 😇
+ If you liked this, then Star ⭐ the repo & make sure to follow 😇
   
   ## Author
     
