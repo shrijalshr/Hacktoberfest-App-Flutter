@@ -11,7 +11,7 @@
 ### 📝 Instructions
 - Fork this Repository 
 - Clone your forked repository to your pc ( ``git clone "url from clone option"``)
-- Make changes to code according to the <a href=""> instructions given below </a>
+- Make changes to code according to the <a href="https://github.com/Nirbhay-nrb/Hacktoberfest-App-Flutter/blob/master/README.md#how-to-make-your-pull-request"> instructions given below </a>
 - Add your files (``git add .``), commit (``git commit -m "added myself"``) and push (``git push origin master``)
 - Create a pull request with label
 - Star this repository 🌟
