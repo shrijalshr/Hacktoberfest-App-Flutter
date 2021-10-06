@@ -8,6 +8,7 @@ class Contributers {
     'thetarandhiman',
     'alishaac',
     'aryan-401',
+    'DevanshUpadhyay26',
     // Add your GitHub Username here (please add "," also)
   ];
 
