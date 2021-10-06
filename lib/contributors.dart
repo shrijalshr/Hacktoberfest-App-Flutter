@@ -11,6 +11,7 @@ class Contributers {
     'DevanshUpadhyay26',
     'simranbhalla3',
     'krohitk17',
+    '2002-ishaan',
     // Add your GitHub Username here (please add "," also)
   ];
 
