@@ -19,6 +19,7 @@ class Contributers {
     'nirad17',
     'deepankarvarma',
     'adityasrathore',
+    'DvnOshin',
     // Add your GitHub Username here (please add "," also)
   ];
 
