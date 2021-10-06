@@ -9,7 +9,8 @@ class Contributers {
     'alishaac',
     'aryan-401',
     'DevanshUpadhyay26',
-    'simranbhalla3'
+    'simranbhalla3',
+    'krohitk17',
     // Add your GitHub Username here (please add "," also)
   ];
 
