@@ -6,6 +6,7 @@ class Contributers {
     'Palash2003',
     'PARAVPREET17',
     'thetarandhiman',
+    'alishaac'
     // Add your GitHub Username here (please add "," also)
   ];
 
