@@ -17,6 +17,7 @@ class Contributers {
     'SukritSethi' ,
     'Red-0111',
     'nirad17',
+    'deepankarvarma',
     // Add your GitHub Username here (please add "," also)
   ];
 
