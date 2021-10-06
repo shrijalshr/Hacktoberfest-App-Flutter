@@ -11,13 +11,15 @@
 ### 📝 Instructions
 - Fork this Repository 
 - Clone your forked repository to your pc ( ``git clone "url from clone option"``)
+- Create a new branch for your modifications (ie. ``git checkout -b new-user``)
 - Make changes to code according to the <a href="https://github.com/Nirbhay-nrb/Hacktoberfest-App-Flutter/blob/master/README.md#how-to-make-your-pull-request"> instructions given below </a>
-- Add your files (``git add .``), commit (``git commit -m "added myself"``) and push (``git push origin master``)
+- Add your files (``git add .``), commit (``git commit -m "added myself"``) and push (``git push origin new-user``)
 - Create a pull request with label
 - Star this repository 🌟
 - Follow me for more projects ❤
 
 # How to make your Pull Request:
+#### 📜 Instructions for making the changes
 ## 1. Editing the Code
 Add your `Github username` in the contributer's list[ ] given in `lib/contributers.dart`
 ```dart
@@ -44,7 +46,7 @@ Quote: Any quote!
  ## 4. Celebrate - you've done your pull request!!
 Yay!! Refresh your profile at <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a> and see the updates. 🎉
     <hr>
- If you liked then Star ⭐ the repo & make sure to follow 😇
+ If you liked this, then Star ⭐ the repo & make sure to follow 😇
   
   ## Author
     
