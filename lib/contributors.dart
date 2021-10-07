@@ -12,6 +12,15 @@ class Contributers {
     'simranbhalla3',
     'krohitk17',
     '2002-ishaan',
+    'manveersingh29',
+    'Pranvee_Vashisht',
+    'SukritSethi' ,
+    'Red-0111',
+    'nirad17',
+    'deepankarvarma',
+    'adityasrathore',
+    'DvnOshin',
+    'yuktagopalani',
     'SayanKabir',
     // Add your GitHub Username here (please add "," also)
   ];
