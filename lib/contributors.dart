@@ -14,7 +14,7 @@ class Contributers {
     '2002-ishaan',
     'manveersingh29',
     'Pranvee_Vashisht',
-    'SukritSethi' ,
+    'SukritSethi',
     'Red-0111',
     'nirad17',
     'deepankarvarma',
@@ -24,6 +24,7 @@ class Contributers {
     'SayanKabir',
     'Digisata',
     'CodeOnnnn',
+    'rudratejC'
     // Add your GitHub Username here (please add "," also)
   ];
 
