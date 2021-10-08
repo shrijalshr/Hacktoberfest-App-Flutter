@@ -27,6 +27,7 @@ class Contributers {
     'rudratejC',
     'Aman-Ladla',
     'Palak-Yadav',
+    'PRAJJWALmehta',
     // Add your GitHub Username here (please add "," also)
   ];
 
