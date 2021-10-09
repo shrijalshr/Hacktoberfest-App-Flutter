@@ -28,6 +28,7 @@ class Contributers {
     'Aman-Ladla',
     'Palak-Yadav',
     'PRAJJWALmehta',
+    'Alfaridzi',
     'pavankalyan0424'
     'EbhomenyeEmmanuel',
     // Add your GitHub Username here (please add "," also)
