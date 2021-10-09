@@ -31,6 +31,7 @@ class Contributers {
     'Alfaridzi',
     'pavankalyan0424',
     'EbhomenyeEmmanuel',
+    'namanbohra',
     'Anuragvij55',
     // Add your GitHub Username here (please add "," also)
   ];
