@@ -36,6 +36,7 @@ class Contributers {
     'aman1210'
     'arjun-710',
     'sanxy',
+    'Hritik Baliyan',
     // Add your GitHub Username here (please add "," also)
   ];
 
