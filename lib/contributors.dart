@@ -40,6 +40,8 @@ class Contributers {
     'sanxy',
     'Hritik Baliyan',
     'Ntare Guy',
+    'Rohan Doshi',
+    // Add your GitHub Username here (please add "," also)
     'Ansh Rathod',
   ];
 
