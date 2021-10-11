@@ -2,8 +2,6 @@ class Contributers {
   List<String> contributers = [
     'Nirbhay-nrb',
     'Shreyasrana18',
-    'ayushmanbedi',
-    'javeriatabassum145',
     'Manv3ndra',
     'Palash2003',
     'PARAVPREET17',
@@ -40,9 +38,11 @@ class Contributers {
     'sanxy',
     'Hritik Baliyan',
     'Ntare Guy',
+    'ayushmanbedi',
+    'javeriatabassum145',
     'Rohan Doshi',
-    // Add your GitHub Username here (please add "," also)
     'Ansh Rathod',
+    // Add your GitHub Username here (please add "," also)
   ];
 
   List<String> getList() {
