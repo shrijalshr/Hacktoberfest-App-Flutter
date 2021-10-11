@@ -39,7 +39,7 @@ class Contributers {
     'sanxy',
     'Hritik Baliyan',
     'Ntare Guy',
-    // Add your GitHub Username here (please add "," also)
+    'Ansh Rathod',
   ];
 
   List<String> getList() {
