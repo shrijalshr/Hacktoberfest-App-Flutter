@@ -2,6 +2,7 @@ class Contributers {
   List<String> contributers = [
     'Nirbhay-nrb',
     'Shreyasrana18',
+    'ayushmanbedi',
     'javeriatabassum145',
     'Manv3ndra',
     'Palash2003',
