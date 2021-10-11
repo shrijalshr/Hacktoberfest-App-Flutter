@@ -42,6 +42,7 @@ class Contributers {
     'javeriatabassum145',
     'Rohan Doshi',
     'Ansh Rathod',
+    'itsmurphy',
     // Add your GitHub Username here (please add "," also)
   ];
 
