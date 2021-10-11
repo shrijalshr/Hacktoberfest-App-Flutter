@@ -34,11 +34,11 @@ class Contributers {
     'EbhomenyeEmmanuel',
     'namanbohra',
     'Anuragvij55',
-    'aman1210'
-        'arjun-710',
+    'aman1210',
+    'arjun-710',
     'sanxy',
     'Hritik Baliyan',
-    'Ntare Guy'
+    'Ntare Guy',
     // Add your GitHub Username here (please add "," also)
   ];
 
