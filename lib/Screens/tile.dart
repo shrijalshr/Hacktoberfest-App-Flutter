@@ -7,17 +7,21 @@ class Tile extends StatelessWidget {
   final String name;
   const Tile({required this.name});
 
-  void launcher() async {
-    final String _url = "https://github.com/" + name;
-    await canLaunch(_url) ? await launch(_url) : throw 'Could not launch $_url';
-  }
-
   @override
   Widget build(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.only(top: 10.0, left: 5, right: 5),
       child: InkWell(
-        onTap: launcher,
+        onTap: () async {
+          final String _url = "https://github.com/" + name + "/";
+          try {
+            await launch(_url);
+          } on Exception catch (e) {
+            print(e);
+            final snackBar = SnackBar(content: Text('Yay! A SnackBar!'));
+            ScaffoldMessenger.of(context).showSnackBar(snackBar);
+          }
+        },
         child: Card(
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(
