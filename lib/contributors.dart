@@ -43,6 +43,7 @@ class Contributers {
     'Rohan Doshi',
     'Ansh Rathod',
     'itsmurphy',
+    'NuCLeUs2'
     // Add your GitHub Username here (please add "," also)
   ];
 
