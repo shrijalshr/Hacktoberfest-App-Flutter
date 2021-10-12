@@ -44,7 +44,7 @@ class Contributers {
     'Ansh Rathod',
     'itsmurphy',
     'NuCLeUs2',
-    'Gulshan Jakhon'
+    'Gulshan Jakhon',
     // Add your GitHub Username here (please add "," also)
   ];
 
