@@ -48,6 +48,7 @@ class Contributers {
     'akashlilhare',
     'Suyog Kokaje',
     'harmanjit14',
+    'Sharvi Endait',
     // Add your GitHub Username here (please add "," also)
   ];
 
