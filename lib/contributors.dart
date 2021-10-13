@@ -46,6 +46,7 @@ class Contributers {
     'NuCLeUs2',
     'Gulshan Jakhon',
     'akashlilhare',
+    'harmanjit14',
     // Add your GitHub Username here (please add "," also)
   ];
 
