@@ -47,6 +47,7 @@ class Contributers {
     'Gulshan Jakhon',
     'akashlilhare',
     'Suyog Kokaje',
+    'harmanjit14',
     // Add your GitHub Username here (please add "," also)
   ];
 
