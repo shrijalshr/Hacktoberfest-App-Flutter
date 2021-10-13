@@ -18,7 +18,8 @@ class Tile extends StatelessWidget {
             await launch(_url);
           } on Exception catch (e) {
             print(e);
-            final snackBar = SnackBar(content: Text('Yay! A SnackBar!'));
+            final snackBar =
+                SnackBar(content: Text('Sorry, the link cannot be opened!'));
             ScaffoldMessenger.of(context).showSnackBar(snackBar);
           }
         },
