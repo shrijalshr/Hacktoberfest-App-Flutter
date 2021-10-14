@@ -49,6 +49,7 @@ class Contributers {
     'Suyog Kokaje',
     'harmanjit14',
     'Sharvi Endait',
+    'curiousTejas'
     // Add your GitHub Username here (please add "," also)
   ];
 
