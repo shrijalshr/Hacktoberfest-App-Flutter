@@ -52,7 +52,7 @@ class Contributers {
     'Sharvi Endait',
     'Jcupzz',
     'Pritansh Chandra',
-    'AnjaliRana986',
+ 
     
 
   ];
