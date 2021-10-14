@@ -52,6 +52,7 @@ class Contributers {
     'Sharvi Endait',
     'Jcupzz',
     'Pritansh Chandra',
+    'Luiz Eduardo'
     // Add your GitHub Username here (please add "," also)
 
   ];
