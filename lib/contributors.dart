@@ -46,10 +46,15 @@ class Contributers {
     'NuCLeUs2',
     'Gulshan Jakhon',
     'akashlilhare',
+    'Saurabh-Thakur-07',
     'Suyog Kokaje',
     'harmanjit14',
     'Sharvi Endait',
     'curiousTejas'
+    'Jcupzz',
+    'Pritansh Chandra',
+    'AnjaliRana986',
+    'LuizEduardoBP'
     // Add your GitHub Username here (please add "," also)
   ];
 
