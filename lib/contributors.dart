@@ -54,7 +54,8 @@ class Contributers {
     'Jcupzz',
     'Pritansh Chandra',
     'AnjaliRana986',
-    'LuizEduardoBP'
+    'LuizEduardoBP',
+    'ishita-lyall',
     // Add your GitHub Username here (please add "," also)
   ];
 
