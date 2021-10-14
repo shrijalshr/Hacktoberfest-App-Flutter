@@ -47,6 +47,13 @@ class Contributers {
     'Gulshan Jakhon',
     'akashlilhare',
     'Saurabh-Thakur-07',
+    'Suyog Kokaje',
+    'harmanjit14',
+    'Sharvi Endait',
+    'Jcupzz',
+    'Pritansh Chandra',
+    // Add your GitHub Username here (please add "," also)
+
   ];
 
   List<String> getList() {
