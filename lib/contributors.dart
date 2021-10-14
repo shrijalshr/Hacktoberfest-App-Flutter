@@ -53,9 +53,8 @@ class Contributers {
     'Jcupzz',
     'Pritansh Chandra',
     'AnjaliRana986',
- 
-    
-
+    'LuizEduardoBP'
+    // Add your GitHub Username here (please add "," also)
   ];
 
   List<String> getList() {
