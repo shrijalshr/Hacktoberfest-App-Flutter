@@ -50,6 +50,7 @@ class Contributers {
     'Suyog Kokaje',
     'harmanjit14',
     'Sharvi Endait',
+    'curiousTejas'
     'Jcupzz',
     'Pritansh Chandra',
     'AnjaliRana986',
