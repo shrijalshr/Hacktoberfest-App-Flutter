@@ -18,37 +18,21 @@ class Tile extends StatelessWidget {
             await launch(_url);
           } on Exception catch (e) {
             print(e);
-            final snackBar =
-                SnackBar(content: Text('Sorry, the link cannot be opened!'));
+            final snackBar = SnackBar(content: Text('Sorry, the link cannot be opened!'));
             ScaffoldMessenger.of(context).showSnackBar(snackBar);
           }
         },
         child: Card(
-          shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(
-              20,
-            ),
-          ),
-          color: Color(0xFFF2E88B),
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+          color: const Color(0xFFF2E88B),
           elevation: 5,
           child: Padding(
             padding: const EdgeInsets.all(20.0),
             child: Row(
               children: [
-                Image.asset(
-                  'images/githubnrb.png',
-                  scale: 5,
-                ),
-                SizedBox(
-                  width: 15,
-                ),
-                Text(
-                  name,
-                  style: TextStyle(
-                    fontSize: 30,
-                    fontFamily: 'Satisfy',
-                  ),
-                ),
+                Image.asset('images/githubnrb.png', scale: 5),
+                SizedBox(width: 15),
+                Text(name, style: const TextStyle(fontSize: 30, fontFamily: 'Satisfy')),
               ],
             ),
           ),

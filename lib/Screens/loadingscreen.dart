@@ -12,11 +12,7 @@ class LoadingScreen extends StatefulWidget {
 
 class _LoadingScreenState extends State<LoadingScreen> {
   void nextScreen() async {
-    await Future.delayed(
-      Duration(
-        milliseconds: 3000,
-      ),
-    );
+    await Future.delayed(Duration(milliseconds: 3000));
     Navigator.pushNamed(context, ListContributors.id);
   }
 
@@ -29,11 +25,9 @@ class _LoadingScreenState extends State<LoadingScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xFFFFE0B2),
+      backgroundColor: const Color(0xFFFFE0B2),
       // backgroundColor: Color(0xFFF4F0E1),
-      body: Center(
-        child: Image.asset('images/logo1.png'),
-      ),
+      body: Center(child: Image.asset('images/logo1.png')),
     );
   }
 }
