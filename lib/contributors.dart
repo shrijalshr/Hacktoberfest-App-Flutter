@@ -2,7 +2,6 @@ class Contributers {
   List<String> contributers = [
     'Nirbhay-nrb',
     'Shreyasrana18',
-    'Manv3ndra',
     'Palash2003',
     'PARAVPREET17',
     'thetarandhiman',
@@ -20,6 +19,7 @@ class Contributers {
     'deepankarvarma',
     'adityasrathore',
     'DvnOshin',
+    'Manv3ndra',
     'yuktagopalani',
     'SayanKabir',
     'Digisata',
@@ -46,11 +46,16 @@ class Contributers {
     'NuCLeUs2',
     'Gulshan Jakhon',
     'akashlilhare',
+    'Saurabh-Thakur-07',
     'Suyog Kokaje',
     'harmanjit14',
     'Sharvi Endait',
+    'curiousTejas'
     'Jcupzz',
     'Pritansh Chandra',
+    'AnjaliRana986',
+    'LuizEduardoBP',
+    'ishita-lyall',
     // Add your GitHub Username here (please add "," also)
   ];
 
