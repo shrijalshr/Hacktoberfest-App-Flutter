@@ -59,6 +59,7 @@ class Contributers {
     'lukisanjaya',
     'Sarishaaggarwal',
     'Adithya-13',
+    'Danushan99',
     // Add your GitHub Username here (please add "," also)
   ];
 
