@@ -62,6 +62,7 @@ class Contributers {
     'SKumaran14',
     'Danushan99',
     'ArmanNawaz',
+    'atharv-bhadange',
     // Add your GitHub Username here (please add "," also)
   ];
 
