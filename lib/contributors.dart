@@ -1,6 +1,5 @@
 class Contributers {
   List<String> contributers = [
-    'Sudharsan',
     'Nirbhay-nrb',
     'Shreyasrana18',
     'Palash2003',
@@ -64,6 +63,7 @@ class Contributers {
     'Danushan99',
     'ArmanNawaz',
     'atharv-bhadange',
+    'Sudharsan',
     // Add your GitHub Username here (please add "," also)
   ];
 
