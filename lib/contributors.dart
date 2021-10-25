@@ -51,11 +51,23 @@ class Contributers {
     'harmanjit14',
     'Sharvi Endait',
     'curiousTejas'
-    'Jcupzz',
+        'Jcupzz',
     'Pritansh Chandra',
     'AnjaliRana986',
     'LuizEduardoBP',
+    'ishita-lyall',
+    'lukisanjaya',
+    'Sarishaaggarwal',
+    'Adithya-13',
+    'SKumaran14',
+    'Danushan99',
+    'ArmanNawaz',
+    'atharv-bhadange',
+    'Sudharsan',
+    'AlbertoYabeda',
+    'Samkit-shah',
     'AnghelAndrei28',
+
     // Add your GitHub Username here (please add "," also)
   ];
 

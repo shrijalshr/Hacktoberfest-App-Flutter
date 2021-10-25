@@ -1,3 +1,4 @@
+<i> IMPORTANT : This repository is now excluded from hacktoberfest 2021, so the PRs made to this repo from now on wont be a valid hacktoberfest PR. Sorry for the inconvenience</i>
 <h1 align="center"> Hacktoberfest 2021 Flutter </h2>
 <p align="center">
 <img  height="700" width="300" src="https://user-images.githubusercontent.com/73791598/136089599-ef0c782e-5f1f-495e-a198-802a7363751a.png"/>
