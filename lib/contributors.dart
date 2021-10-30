@@ -51,7 +51,7 @@ class Contributers {
     'harmanjit14',
     'Sharvi Endait',
     'curiousTejas'
-        'Jcupzz',
+    'Jcupzz',
     'Pritansh Chandra',
     'AnjaliRana986',
     'LuizEduardoBP',
@@ -68,6 +68,7 @@ class Contributers {
     'Samkit-shah',
     'AnghelAndrei28',
     'Shrijal Shrestha'
+    'don-k-jacob', 
     // Add your GitHub Username here (please add "," also)
   ];
 
