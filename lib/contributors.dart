@@ -67,6 +67,7 @@ class Contributers {
     'AlbertoYabeda',
     'Samkit-shah',
     'AnghelAndrei28',
+    'Shrijal Shrestha'
     // Add your GitHub Username here (please add "," also)
   ];
 
